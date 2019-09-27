@@ -1,2 +1,2 @@
-# LAB4
-Trabalhos lab4 2016.1
+# UFBA - Computer Engineering Lab4
+Project for the Computer Engineering course from Universidade Federal da Bahia.
